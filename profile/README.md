@@ -1,12 +1,9 @@
 ## Hi there 👋
 
-<!--
+### Naming conventions
 
-**Here are some ideas to get you started:**
+Repos are named `{first_author}_{preprint_year}`.  If there are multiple publications with the same identifier then `[a-z]` will be appended.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://guides.github.com/features/mastering-markdown/)
--->
+Repo descriptions contain the title of the preprint.
+
+Repo README.md files contain the full title, author list, and DOI.
