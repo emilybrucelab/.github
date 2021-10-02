@@ -1,2 +1,3 @@
 # .github
-Overview
+
+This repo hosts the organization's README.md
